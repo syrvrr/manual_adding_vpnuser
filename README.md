@@ -9,7 +9,7 @@ i change
 
 sudo sh man_add_vpn_user.sh 'username_to_add' 'user_password' 'ip_address'
 
-for getting my files you can clone with this link
+you can getting my file with this link
 https://github.com/sayray303/manual_adding_vpnuser/raw/master/man_add_vpn_user.sh -O man_add_vpn_user
 
 sudo sh man_add_vpn_user.sh 'username_to_add' 'user_password' 'ip_address'
